@@ -1,0 +1,51 @@
+Expense_ID,Date,Category,Description,Amount,Payment_Mode
+1,2026-01-01,Food,Lunch,80,Cash
+2,2026-01-02,Travel,Metro fare,120,UPI
+3,2026-01-03,Shopping,Household item,250,Card
+4,2026-01-04,Bills,Water bill,450,Cash
+5,2026-01-05,Education,Notebook,600,UPI
+6,2026-01-06,Other,Gift,950,Card
+7,2026-01-07,Food,Snacks,1500,Cash
+8,2026-01-08,Travel,Cab fare,300,UPI
+9,2026-01-09,Shopping,Stationery,80,Card
+10,2026-01-10,Bills,Electricity bill,120,Cash
+11,2026-01-11,Education,Printing,250,UPI
+12,2026-01-12,Other,Miscellaneous,450,Card
+13,2026-01-13,Food,Lunch,600,Cash
+14,2026-01-14,Travel,Metro fare,950,UPI
+15,2026-01-15,Shopping,Household item,1500,Card
+16,2026-01-16,Bills,Water bill,300,Cash
+17,2026-01-17,Education,Notebook,80,UPI
+18,2026-01-18,Other,Gift,120,Card
+19,2026-01-19,Food,Snacks,250,Cash
+20,2026-01-20,Travel,Cab fare,450,UPI
+21,2026-01-21,Shopping,Stationery,600,Card
+22,2026-01-22,Bills,Electricity bill,950,Cash
+23,2026-01-23,Education,Printing,1500,UPI
+24,2026-01-24,Other,Miscellaneous,300,Card
+25,2026-01-25,Food,Lunch,80,Cash
+26,2026-01-26,Travel,Metro fare,120,UPI
+27,2026-01-27,Shopping,Household item,250,Card
+28,2026-01-28,Bills,Water bill,450,Cash
+29,2026-02-01,Education,Notebook,600,UPI
+30,2026-02-02,Other,Gift,950,Card
+31,2026-02-03,Food,Snacks,1500,Cash
+32,2026-02-04,Travel,Cab fare,300,UPI
+33,2026-02-05,Shopping,Stationery,80,Card
+34,2026-02-06,Bills,Electricity bill,120,Cash
+35,2026-02-07,Education,Printing,250,UPI
+36,2026-02-08,Other,Miscellaneous,450,Card
+37,2026-02-09,Food,Lunch,600,Cash
+38,2026-02-10,Travel,Metro fare,950,UPI
+39,2026-02-11,Shopping,Household item,1500,Card
+40,2026-02-12,Bills,Water bill,300,Cash
+41,2026-02-13,Education,Notebook,80,UPI
+42,2026-02-14,Other,Gift,120,Card
+43,2026-02-15,Food,Snacks,250,Cash
+44,2026-02-16,Travel,Cab fare,450,UPI
+45,2026-02-17,Shopping,Stationery,600,Card
+46,2026-02-18,Bills,Electricity bill,950,Cash
+47,2026-02-19,Education,Printing,1500,UPI
+48,2026-02-20,Other,Miscellaneous,300,Card
+49,2026-02-21,Food,Lunch,80,Cash
+50,2026-02-22,Travel,Metro fare,120,UPI
